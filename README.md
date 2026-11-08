@@ -11,9 +11,11 @@
 | Репозиторий | Что внутри |
 |---|---|
 | **[CrmArcheonzero](https://github.com/ArcheonZero/CrmArcheonzero)** | Локальная CRM на WPF + MVVM + SQLite — флагман, под него идёт [цикл DevCrm](https://archeonzero.ru/articles/devcrm-00-razrabotka-crm-na-wpf.html) |
-| **[CrmWebArcheonzero](https://github.com/ArcheonZero/CrmWebArcheonzero)** | Веб-вариант CRM |
+| **[CrmWebArcheonzero](https://github.com/ArcheonZero/CrmWebArcheonzero)** | Веб-CRM на ASP.NET Core: EF Core, мультибазы (SQLite / PostgreSQL / SQL Server), отчёты и экспорт (QuestPDF, EPPlus) |
 | **[CrmAZAdrXam](https://github.com/ArcheonZero/CrmAZAdrXam)** | Android-приложение на Xamarin |
-| **[CrmBlzAZ9.Mob](https://github.com/ArcheonZero/CrmBlzAZ9.Mob)** | Мобильная ветка CRM-проектов на C# |
+| **[CrmBlzAZ9.Mob](https://github.com/ArcheonZero/CrmBlzAZ9.Mob)** | Мобильный клиент на .NET MAUI + Blazor Hybrid (Android) |
+
+✦ Готовятся к публикации: **Archeonzero CMS** (PHP) · **инструменты для архива** (Python) · **LLMRouter**
 
 ## ◆ Цикл DevCrm: CRM на WPF
 
@@ -25,10 +27,21 @@
 ## ◆ Стек
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat)
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=flat)
+![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo=xamarin&logoColor=white)
+
+**По платформам:**
+
+- **Десктоп** — WPF · MVVM · SQLite (C# / .NET 8)
+- **Веб** — ASP.NET Core · EF Core · PostgreSQL / SQL Server / SQLite · отчёты и экспорт: QuestPDF, EPPlus, Magicodes (C# / .NET 7)
+- **Мобильное** — .NET MAUI + Blazor Hybrid · Xamarin.Android
+- **Сайт** — чистый HTML/CSS/JS
+- **Прочее** — PHP (CMS) · Python (инструменты архива) · LLMRouter
 
 ## ◆ Площадки
 
