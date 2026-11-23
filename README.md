@@ -19,6 +19,7 @@
 | **[CrmWebArcheonzero](https://github.com/ArcheonZero/CrmWebArcheonzero)** | Веб-CRM на ASP.NET Core: EF Core, мультибазы (SQLite / PostgreSQL / SQL Server), отчёты и экспорт (QuestPDF, EPPlus) |
 | **[CrmAZAdrXam](https://github.com/ArcheonZero/CrmAZAdrXam)** | Android-приложение на Xamarin |
 | **[CrmBlzAZ9.Mob](https://github.com/ArcheonZero/CrmBlzAZ9.Mob)** | Мобильный клиент на .NET MAUI + Blazor Hybrid (Android) |
+| **[Zai-AZ-chatApp](https://github.com/ArcheonZero/Zai-AZ-chatApp)** | Android-обёртка чата Z.ai на Kotlin: WebView без браузерной обвязки, превью вложений по тапу, скачивание файлов, MIT-форк Zai-app |
 
 ✦ Готовятся к публикации: **Archeonzero CMS** (PHP) · **инструменты для архива** (Python) · **LLMRouter**
 
@@ -67,6 +68,8 @@ $ echo $MOTTO
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -76,6 +79,7 @@ $ echo $MOTTO
 - **Десктоп** — WPF · MVVM · SQLite (C# / .NET 8)
 - **Веб** — ASP.NET Core · EF Core · PostgreSQL / SQL Server / SQLite · отчёты и экспорт: QuestPDF, EPPlus, Magicodes (C# / .NET 7)
 - **Мобильное** — .NET MAUI + Blazor Hybrid · Xamarin.Android
+- **Android-обёртки** — Kotlin · WebView · Material 3 · JS-мосты (SDK 34, JDK 17)
 - **Сайт** — чистый HTML/CSS/JS
 - **Прочее** — PHP (CMS) · Python (инструменты архива) · LLMRouter
 
