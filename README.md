@@ -20,6 +20,7 @@
 | **[CrmAZAdrXam](https://github.com/ArcheonZero/CrmAZAdrXam)** | Android-приложение на Xamarin |
 | **[CrmBlzAZ9.Mob](https://github.com/ArcheonZero/CrmBlzAZ9.Mob)** | Мобильный клиент на .NET MAUI + Blazor Hybrid (Android) |
 | **[Zai-AZ-chatApp](https://github.com/ArcheonZero/Zai-AZ-chatApp)** | Android-обёртка чата Z.ai на Kotlin: WebView без браузерной обвязки, превью вложений по тапу, скачивание файлов, MIT-форк Zai-app |
+| **[archeonzero.github.io](https://github.com/ArcheonZero/archeonzero.github.io)** | Исходники сайта archeonzero.ru на GitHub Pages: темы, повесть, статьи цикла |
 
 ✦ Готовятся к публикации: **Archeonzero CMS** (PHP) · **инструменты для архива** (Python) · **LLMRouter**
 
@@ -34,6 +35,15 @@
 
 ✦ Начать с начала: **[DevCrm 00 — Меня парализовало перед собственным проектом CRM на WPF](https://archeonzero.ru/articles/devcrm-00-razrabotka-crm-na-wpf.html)**
 
+<!-- ✎ СТАТЬИ — разборы нейросетей. Новую статью добавляй строкой с «✦» и ссылкой. -->
+
+## ✦ Статьи
+
+> Разборы нейросетей — по личному опыту, с цифрами и без прикрас.
+
+✦ **[Лимиты DeepSeek для бесплатных: что ограничили, откуда 8,6-кратный рост и что делать](https://archeonzero.ru/articles/ii-kak-katalizator/deepseek-limity.html)**
+✦ Скоро: статья про Z.ai — приложение, форк AZ chat и смена приоритетов по моделям.
+
 <!-- ✎ ТЕРМИНАЛ — приветствие в духе темы сайта: тот же чёрный экран,
      приглашение «$» и ответ «▸». Это просто код-блок, правь строки
      свободно, каждый раз сохраняя три кавычки сверху и снизу. -->
@@ -45,7 +55,7 @@ $ whoami
 ▸ разработчик · инженер сознания · архитектор процессов
 
 $ cat ~/слои.txt
-▸ код    — десктоп · веб · мобильное · сайт
+▸ код    — десктоп · веб · мобильное · Android-обёртки · сайт
 ▸ текст  — цикл DevCrm · обзоры нейросетей
 ▸ ещё    — музыка · состояния
 
